@@ -1,0 +1,14 @@
+{
+  "name": "mongooseMyFriend",
+  "version": "0.0.0",
+  "description": "Playing with Mongo and Mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Meh",
+  "license": "ISC",
+  "devDependencies": {
+    "mongoose": "^3.8.14"
+  }
+}
